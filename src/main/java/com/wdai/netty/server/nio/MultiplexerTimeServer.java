@@ -2,7 +2,7 @@
  * Weidai
  * Copyright (c) 2017-2017 All Rights Reserved.
  */
-package com.wdai.netty.server;
+package com.wdai.netty.server.nio;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
